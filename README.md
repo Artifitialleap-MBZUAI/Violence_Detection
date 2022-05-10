@@ -1,5 +1,6 @@
 # VIOLENCE AND WEAPONIZED VIOLENCE DETECTION
-
+To do: Add paper link after
+Add pretrained models??
 # INTRODUCTION
 This repository introduces Salient Image, a method for Violence and Weaponized Violence Detection from Smart Surveillance Systems (CCTV). The following algorithms were employed for training and inference on the 5 by 3 and 3 by 2 versions of the Salient Image:
   - VGG16
